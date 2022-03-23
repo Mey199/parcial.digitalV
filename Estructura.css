@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+@charset "utf-8";
+/* CSS Document */
+body {
+	color: aliceblue;
+	background-color: rgb(83, 35, 83);
+	margin: 0;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+	color: antiquewhite;
+	font-size: 7.625rem;
+	margin: 50px auto 0 auto;
+	font-family: 'Dancing Script', cursive;
+}
+
+h2{
+	color: antiquewhite;
+	font-size: 2rem;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+
+h3{
+	color: antiquewhite;
+	
+	
+}
+
+p{
+	line-height: 2;
+}
+
+hr{
+	border: dotted;
+	color: aliceblue;
+	border-bottom: none;
+	width: 4%;
+	margin: 100px auto;
+	
+}
+a{
+	color:aqua;
+	font-family: 'Montserrat', sans-serif;
+		margin: 10px 20px;
+	text-decoration: none;
+	
+}
+
+a:hover{
+	color: aliceblue;
+}
+
+.imagen-control{
+	
+
+}
+
+
+.contenedor-superior{
+	background-color: aqua;
+	position: relative;
+	padding-top: 100px;
+	
+}
+
+.descripcion-personal{
+	margin:100px 0;
+	font-size: 25px;
+	
+}
+
+.fila-habilidades{
+	width:  50;
+		margin: 100px auto 100px auto;
+		text-align:l left;
+}
+
+.enlaces{
+	background-color:aqua;
+	
+}
+
+.u{
+text-decoration: underline;
+}
+
+
+.copyright{
+	color:aliceblue;
+	font-size: 0.75rem ;
+	padding: 20px 0  ;
+}
